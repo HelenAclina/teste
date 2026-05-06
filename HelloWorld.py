@@ -1,1 +1,1 @@
-Print ('Hello World nn')
+Print ('Hello World')
